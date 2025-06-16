@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://mark-gervic-arca.onrender.com/assets/bg.png" width="400">
+  <img src="https://mark-gervic-arca.onrender.com/assets/github-pic.svg" width="400">
 </p>
 
 ### 👨‍💻 Who I Am
