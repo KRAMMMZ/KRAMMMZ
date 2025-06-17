@@ -15,7 +15,7 @@
 </p>
 
 ### 👨‍💻 Who I Am
-I am an enthusiastic and passionate aspiring Web Developer with a strong interest in creating visually appealing and user-friendly web applications. I have a solid foundation in HTML, CSS, and JavaScript, and am continually learning and growing my skills in modern frontend frameworks like React.js. I enjoy designing intuitive user interfaces and am dedicated to creating responsive and accessible web applications that provide an excellent user experience.
+I am an enthusiastic and passionate aspiring Software Developer with a strong interest in creating visually appealing and user-friendly web applications. I have a solid foundation in HTML, CSS, and JavaScript, and am continually learning and growing my skills in modern frontend frameworks like React.js. I enjoy designing intuitive user interfaces and am dedicated to creating responsive and accessible web applications that provide an excellent user experience.
  
  
 ---
